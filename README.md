@@ -20,9 +20,7 @@ Download ATIS [training](https://github.com/Microsoft/CNTK/blob/release/2.5/Tuto
 
 ### Model
 
-$$
-h_t = \sigma (Wx_t + u \odot h_{t-1} + b)
-$$
+$h_t = \sigma (Wx_t + u \odot h_{t-1} + b)$
 
 
 
