@@ -4,6 +4,9 @@ This is a [IndRNN](https://arxiv.org/abs/1803.04831) implementation on [cntk](ht
 
 My rewrite of the cntk code is somehow ugly now. Apologize for that
 
+# Notice
+Proposed by **@Sunnydreamrain**, IndRNN requires at leat 2 layers and will perform better than rnn but with the same number of parameter. So this experiment is not correct yet. Thanks to **@Sunnydreamrain**
+
 ### Prerequisites
 
 - python 3.6
